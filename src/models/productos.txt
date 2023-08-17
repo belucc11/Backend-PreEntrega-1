@@ -1,0 +1,24 @@
+[
+  {
+    "title": "producto 2",
+    "description": " descripción 2",
+    "price": 29.99,
+    "status": true,
+    "thumbnail": "nuevo2/ruta/imagen.jpg",
+    "category": "asd",
+    "code": "NP112233",
+    "stock": 20,
+    "id": "2e521859-dbe9-4145-9ed2-70f350ecfba7"
+  },
+  {
+    "title": "producto 1",
+    "description": " descripción 1",
+    "price": 233.99,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "ec5551d5-44f4-40c1-8492-0f2337ee6fb9"
+  }
+]
